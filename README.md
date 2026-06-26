@@ -80,24 +80,6 @@ AI & Data Science • Machine Learning Enthusiast • Building Intelligent Solut
 
 ---
 
-## 🐍 Contribution Snake
-
-> **Note:** This animation will appear after you configure the GitHub Action that generates it.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/astha2211/astha2211/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=astha2211&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
-</p>
-
----
-
 ## 💭 Quote
 
 > *"Transforming data into insights and ideas into intelligent solutions through continuous learning and innovation."*
