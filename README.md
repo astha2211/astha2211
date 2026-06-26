@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Astha Mehra</h1>
 
 <h3 align="center">
-AI & Data Science Graduate • Machine Learning Enthusiast • Building Intelligent Solutions with Code & Data
+AI & Data Science • Machine Learning Enthusiast • Building Intelligent Solutions with Code & Data
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ AI & Data Science Graduate • Machine Learning Enthusiast • Building Intellig
 
 ## 👩‍💻 About Me
 
-* 🎓 AI & Data Science Graduate
+* 🎓 AI & Data Science
 * 🤖 Passionate about Machine Learning, Natural Language Processing, and Data Analytics
 * 💡 Interested in building practical AI systems that solve real-world problems
 * 📚 Continuously learning and exploring Generative AI, Retrieval-Augmented Generation (RAG), and scalable ML applications
