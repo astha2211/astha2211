@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # 🌸 Hi there! I'm Astha Mehra 🎀
@@ -97,4 +97,4 @@
 ✨ Thanks for visiting my little corner of GitHub! ✨
 
 </div>
-```
+
