@@ -1,42 +1,41 @@
-<div align="center">
+# <h1 align="center">Hi 👋, I'm Astha Mehra</h1>
 
-# Hi 👋 I'm Astha Mehra
+<h3 align="center">
+AI & Data Science Graduate • Machine Learning Enthusiast • Building Intelligent Solutions with Code & Data
+</h3>
 
-### 🤖 Artificial Intelligence & Data Science Engineer
-### 💡 Machine Learning • NLP • Data Analytics • Generative AI
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%26+Data+Science+Enthusiast;Building+Real-World+ML+Projects;Always+Learning+Something+New+🚀" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Graduate;Machine+Learning+%7C+NLP+%7C+Data+Analytics;Exploring+Generative+AI+and+Real-World+Applications;Always+Learning+%F0%9F%9A%80" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year B.Tech in Artificial Intelligence & Data Science
-- 🤖 Passionate about Machine Learning, NLP & LLMs
-- 📊 Love solving real-world problems using data
-- 🌱 Currently exploring RAG systems and scalable AI
+* 🎓 AI & Data Science Graduate
+* 🤖 Passionate about Machine Learning, Natural Language Processing, and Data Analytics
+* 💡 Interested in building practical AI systems that solve real-world problems
+* 📚 Continuously learning and exploring Generative AI, Retrieval-Augmented Generation (RAG), and scalable ML applications
+* 🌍 Open to opportunities in AI, Data Science, Machine Learning, and Software Development
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,django,tensorflow,pytorch,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=python,r,mysql,django,tensorflow,pytorch,sklearn,git,github,vscode,html,css,javascript" />
 </p>
 
----
+**Frequently used libraries and frameworks:**
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🤖 Enterprise AI Knowledge Platform | RAG-powered document assistant |
-| 🕵️ Fake Job Detector | ML model for fraudulent job detection |
-| ❤️ Heart Disease Prediction | Predictive analytics using ML |
-| 🌿 Plant Disease Detection | CNN-based image classification |
-| 🎓 UniHelp Chatbot | NLP chatbot for student queries |
+* Pandas
+* NumPy
+* OpenCV
+* NLTK
+* Streamlit
+* Matplotlib
+* Keras
+* scikit-learn
 
 ---
 
@@ -49,7 +48,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=astha2211&theme=tokyonight&hide_border=true"/>
@@ -57,36 +56,28 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=astha2211&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=astha2211&theme=tokyo-night" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Profile Trophy
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=astha2211&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=astha2211&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 💭 Quote
 
-> Enable this with a GitHub Action in your profile repository.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/astha2211/astha2211/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+> *“Every dataset tells a story, and every model is an opportunity to learn something new.”*
 
 ---
 
-<div align="center">
-
-### 💫 *"Transforming ideas into intelligent solutions through code and data."*
-
-⭐ Thanks for visiting my profile!
-
-</div>
+<p align="center">
+Thanks for stopping by! ⭐
+</p>
