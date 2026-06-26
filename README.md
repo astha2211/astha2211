@@ -39,11 +39,19 @@ AI & Data Science • Machine Learning Enthusiast • Building Intelligent Solut
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=astha2211&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astha2211&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=astha2211&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astha2211&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=astha2211&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=astha2211&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -55,7 +63,13 @@ AI & Data Science • Machine Learning Enthusiast • Building Intelligent Solut
 </p>
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/astha2211/astha2211/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
 ## 📈 Activity Graph
 
 <p align="center">
@@ -64,13 +78,6 @@ AI & Data Science • Machine Learning Enthusiast • Building Intelligent Solut
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=astha2211&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
 
 ## 💭 Quote
 
