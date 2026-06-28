@@ -20,7 +20,7 @@ AI & Data Science • Machine Learning Enthusiast • Building Intelligent Solut
 - 🎓 B.Tech Graduate in Artificial Intelligence & Data Science
 - 🤖 Passionate about Machine Learning, Natural Language Processing, and Data Analytics
 - 💡 Love building practical AI applications that solve real-world problems
-- 📚 Exploring Generative AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)
+- 📚 Exploring Generative AI, Large Language Models, and Retrieval-Augmented Generation 
 - 🌱 Continuously improving my skills through hands-on projects and experimentation
 - 🌍 Seeking opportunities in AI, Machine Learning, Data Science, and Software Development
 
