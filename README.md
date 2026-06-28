@@ -6,7 +6,7 @@ AI & Data Science • Machine Learning Enthusiast • Building Intelligent Solut
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Graduate;Machine+Learning+%7C+NLP+%7C+Data+Analytics;Building+Real-World+AI+Applications;Exploring+Generative+AI+%26+RAG;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science;Machine+Learning+%7C+NLP+%7C+Data+Analytics;Building+Real-World+AI+Applications;Exploring+Generative+AI+%26+RAG;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
