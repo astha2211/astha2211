@@ -25,19 +25,6 @@ B.Tech graduate in **Artificial Intelligence & Data Science** based in India, wi
 - 📚 Currently learning software testing fundamentals and ISTQB Foundation-level concepts
 - 🌍 Open to roles in QA automation, API testing, backend and AI/ML *(edit this line to match what you're looking for)*
 
----
-
-## 💼 Experience
-
-**AI Machine Learning Intern, Tata Motors Limited** · Pune · Jul 2025 – Apr 2026
-
-- Built an AI-driven **EPA Checker** that automated project status tracking, cutting manual progress-reporting time by **40%** across **480 active tasks**
-- Developed a **RAG-based compliance pipeline** processing **500+ monthly records**, detecting non-compliant part inwarding with **98% accuracy**
-- Built **Power BI dashboards** (DAX, Row-Level Security) to monitor KPIs and compliance metrics
-- Worked with cross-functional teams on data and workflow issues and on data governance
-
----
-
 ## 🚀 Featured Projects
 
 | Project | What it does | Tech |
