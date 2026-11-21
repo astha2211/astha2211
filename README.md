@@ -21,9 +21,9 @@ B.Tech graduate in **Artificial Intelligence & Data Science** based in India, wi
 
 - 🧪 Design and run functional, positive, negative, edge-case and CRUD-based API tests with **Postman** and **Pytest**
 - ⚙️ Build backend services with **FastAPI, Flask and SQLAlchemy**, backed by PostgreSQL, MySQL and SQLite
-- 🤖 Worked on RAG pipelines, SQL validation workflows and Power BI dashboards as an AI/ML intern at Tata Motors
+- 🤖 Worked on RAG pipelines, SQL validation workflows and Power BI dashboards .
 - 📚 Currently learning software testing fundamentals and ISTQB Foundation-level concepts
-- 🌍 Open to roles in QA automation, API testing, backend and AI/ML *(edit this line to match what you're looking for)*
+- 🌍 Open to roles in QA automation, API testing, backend and AI/ML.
 
 ## 🚀 Featured Projects
 
