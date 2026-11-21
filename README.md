@@ -125,13 +125,3 @@ B.Tech graduate in **Artificial Intelligence & Data Science** based in India, wi
 
 > *"Transforming data into insights and ideas into intelligent solutions through continuous learning and innovation."*
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>                            
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astha2211/github-snake/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astha2211/github-snake/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/astha2211/github-snake/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%" />
-  </picture>
-</p>
