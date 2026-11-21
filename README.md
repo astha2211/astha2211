@@ -6,12 +6,6 @@
   </picture>
 </div>
 
-<p align="center">
-  <a href="https://github.com/astha2211"><img src="https://img.shields.io/badge/GitHub-astha2211-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/astha-mehra"><img src="https://img.shields.io/badge/LinkedIn-Astha%20Mehra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://portfolio-gamma-ten-oqylz8x5pv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <img src="https://komarev.com/ghpvc/?username=astha2211&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ---
 
